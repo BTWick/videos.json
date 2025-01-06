@@ -1,0 +1,1248 @@
+[
+  
+"Abyss",
+    {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_001.mp4?alt=media&token=5068771a-ff09-4b48-82a6-0bc360e5557d",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_001",
+          "Release": "1",
+          "Top Y": "890",
+          "Bottom Y": "899"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_002.mp4?alt=media&token=cf653843-7143-4265-bfa0-768309770395",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_002",
+          "Release": "1",
+          "Top Y": "69",
+          "Bottom Y": "99"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_003.mp4?alt=media&token=7e447c99-be8e-4bdd-9c41-3bfb0ea6cf49",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_003",
+          "Release": "1",
+          "Top Y": "568",
+          "Bottom Y": "593"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_004.mp4?alt=media&token=70e9b199-9d1d-4a10-a619-3ff4a6317814",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_004",
+          "Release": "1",
+          "Top Y": "688",
+          "Bottom Y": "701"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_005.mp4?alt=media&token=19f7004a-0478-46f2-90c7-4eac1ecf375f",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_005",
+          "Release": "1",
+          "Top Y": "374",
+          "Bottom Y": "428"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_006.mp4?alt=media&token=575629a2-c782-4e34-9dda-9e2a7149b42f",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_006",
+          "Release": "1",
+          "Top Y": "771",
+          "Bottom Y": "785"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_007.mp4?alt=media&token=43157c6c-d738-4b77-9118-27c204d2bfdf",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_007",
+          "Release": "1",
+          "Top Y": "106",
+          "Bottom Y": "127"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_008.mp4?alt=media&token=8ae240eb-7a0b-4c88-b54f-5cf77009c59c",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_008",
+          "Release": "1",
+          "Top Y": "264",
+          "Bottom Y": "293"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_009.mp4?alt=media&token=0d09bbbf-54d1-4c1d-be46-7a5a4802ffdb",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_009",
+          "Release": "1",
+          "Top Y": "215",
+          "Bottom Y": "233"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Abyss%2FAbyss_010.mp4?alt=media&token=a4911fe8-09f8-44ee-a411-28ea8bff45b1",
+        "tags": {
+          "map": "Infinity",
+          "name": "Abyss_010",
+          "Release": "1",
+          "Top Y": "793",
+          "Bottom Y": "810"
+        }
+      },
+  
+"Ascent",
+    {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_001.mp4?alt=media&token=8d64c663-0bf4-42b0-bae4-9aa83dec11a6",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_001",
+          "Release": "1",
+          "Top Y": "142",
+          "Bottom Y": "165"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_002.mp4?alt=media&token=3bcb678f-eee3-4514-b8c3-edce9605efc6",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_002",
+          "Release": "1",
+          "Top Y": "364",
+          "Bottom Y": "379"
+        }
+      },
+      
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_003.mp4?alt=media&token=da1e008c-a924-492b-a269-307aa0b1e98a",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_003",
+          "Release": "1",
+          "Top Y": "874",
+          "Bottom Y": "889"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_004.mp4?alt=media&token=fbef72f4-15cc-42b9-a984-0617abff54eb",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_004",
+          "Release": "1",
+          "Top Y": "793",
+          "Bottom Y": "816"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_005.mp4?alt=media&token=e045b2b1-cd3f-4044-9152-3a52447e38d7",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_005",
+          "Release": "1",
+          "Top Y": "633",
+          "Bottom Y": "647"
+        }
+      },
+      
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_006.mp4?alt=media&token=603c4500-1e00-4f86-9fb5-66b37feddbb9",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_006",
+          "Release": "1",
+          "Top Y": "761",
+          "Bottom Y": "790"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_007.mp4?alt=media&token=75f6468d-c17c-430b-b962-aee71f92bc13",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_007",
+          "Release": "1",
+          "Top Y": "283",
+          "Bottom Y": "309"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_008.mp4?alt=media&token=fb346dcb-cc8e-4d98-a4f1-382ba998c8ee",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_008",
+          "Release": "1",
+          "Top Y": "796",
+          "Bottom Y": "821"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_009.mp4?alt=media&token=6a0bcfa6-f2f1-4acf-bfb7-ebe0f9d5ca39",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_009",
+          "Release": "1",
+          "Top Y": "614",
+          "Bottom Y": "636"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Ascent%2FAscent_010.mp4?alt=media&token=56f7ac45-4ffd-4985-b3af-9b609ee622f0",
+        "tags": {
+          "map": "Ascent",
+          "name": "Ascent_010",
+          "Release": "1",
+          "Top Y": "140",
+          "Bottom Y": "166"
+        }
+      },
+      
+
+      "Bind",
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_001.mp4?alt=media&token=bce3b978-e363-47c0-9a1d-9b2edfd1f80e",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_001",
+          "Release": "1",
+          "Top Y": "813",
+          "Bottom Y": "833"
+        }
+      },
+
+       {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_002.mp4?alt=media&token=b388e28d-f8e2-4124-b071-939464e762f8",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_002",
+          "Release": "1",
+          "Top Y": "198",
+          "Bottom Y": "224"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_003.mp4?alt=media&token=7994b3c4-093d-4b11-903a-c85364210351",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_003",
+          "Release": "1",
+          "Top Y": "445",
+          "Bottom Y": "468"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_004.mp4?alt=media&token=bb69ba3c-f558-44df-af75-78d1b389528c",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_004",
+          "Release": "1",
+          "Top Y": "767",
+          "Bottom Y": "782"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_005.mp4?alt=media&token=528e0b5c-c584-4534-b5fe-110004dc6c00",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_005",
+          "Release": "1",
+          "Top Y": "219",
+          "Bottom Y": "241"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_006.mp4?alt=media&token=ce9157a2-b2a8-46b9-b5c1-60ba27cd67e8",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_006",
+          "Release": "1",
+          "Top Y": "283",
+          "Bottom Y": "307"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_007.mp4?alt=media&token=b87a84fb-8da8-4e9b-ae73-6a90f27eb64e",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_007",
+          "Release": "1",
+          "Top Y": "628",
+          "Bottom Y": "856"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_008.mp4?alt=media&token=7f04360f-937c-4848-a81a-7464248c6f29",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_008",
+          "Release": "1",
+          "Top Y": "665",
+          "Bottom Y": "711"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_009.mp4?alt=media&token=f9cb6848-79fd-424a-91c7-d981f66ac2a9",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_009",
+          "Release": "1",
+          "Top Y": "167",
+          "Bottom Y": "186"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Bind%2FBind_010.mp4?alt=media&token=62adf40f-93dc-4a31-9083-0abcd983ba66",
+        "tags": {
+          "map": "Duality",
+          "name": "Bind_010",
+          "Release": "1",
+          "Top Y": "765",
+          "Bottom Y": "784"
+        }
+      },
+      
+      
+      
+      
+      "Breeze",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_001.mp4?alt=media&token=09c3d6d1-ca28-444c-9e67-9333b572cea1",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_001",
+          "Release": "1",
+          "Top Y": "723",
+          "Bottom Y": "745"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_002.mp4?alt=media&token=2da16df8-2907-4041-876f-fe4fa01e6e1a",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_002",
+          "Release": "1",
+          "Top Y": "295",
+          "Bottom Y": "311"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_003.mp4?alt=media&token=1cf3b98d-8248-4991-89b8-40ccfdc96c1a",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_003",
+          "Release": "1",
+          "Top Y": "70",
+          "Bottom Y": "97"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_004.mp4?alt=media&token=943e462f-d36c-4089-b0fe-88f893dce5a7",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_004",
+          "Release": "1",
+          "Top Y": "817",
+          "Bottom Y": "831"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_005.mp4?alt=media&token=4a3268d1-25fe-48cb-a03b-719d7c1820c2",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_005",
+          "Release": "1",
+          "Top Y": "193",
+          "Bottom Y": "208"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_006.mp4?alt=media&token=d63fd422-b90c-447b-8ec7-b29a2b8f0f63",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_006",
+          "Release": "1",
+          "Top Y": "877",
+          "Bottom Y": "890"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_007.mp4?alt=media&token=8e67df88-a687-413e-a84b-d116a5e97da1",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_007",
+          "Release": "1",
+          "Top Y": "123",
+          "Bottom Y": "144"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_008.mp4?alt=media&token=d2505b8e-57b3-40c9-9962-0cf3b6d15c9d",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_008",
+          "Release": "1",
+          "Top Y": "907",
+          "Bottom Y": "922"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_009.mp4?alt=media&token=15cc079a-a1ae-4e11-926b-af9bcd48441e",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_009",
+          "Release": "1",
+          "Top Y": "264",
+          "Bottom Y": "280"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Breeze%2FBreeze_010.mp4?alt=media&token=41c5cf29-dcb2-48b3-b22e-632e499c22f6",
+        "tags": {
+          "map": "Foxtrot",
+          "name": "Breeze_010",
+          "Release": "1",
+          "Top Y": "562",
+          "Bottom Y": "578"
+        }
+      },
+      
+      
+      "Fracture",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_001.mp4?alt=media&token=7f73d33c-37f1-466e-af97-aa8b3b04201f",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_001",
+          "Release": "1",
+          "Top Y": "906",
+          "Bottom Y": "928"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_002.mp4?alt=media&token=fe417b3e-4cea-42ae-9146-351263616e1a",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_002",
+          "Release": "1",
+          "Top Y": "145",
+          "Bottom Y": "166"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_003.mp4?alt=media&token=553170a4-c5d6-4619-af31-dd9fad8d6ddf",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_003",
+          "Release": "1",
+          "Top Y": "744",
+          "Bottom Y": "762"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_004.mp4?alt=media&token=061f8ec8-9fbe-416f-b1e7-6a2d002d3c88",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_004",
+          "Release": "1",
+          "Top Y": "276",
+          "Bottom Y": "296"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_005.mp4?alt=media&token=80935ac6-b32d-4c0e-8a2a-f909189d1f7f",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_005",
+          "Release": "1",
+          "Top Y": "610",
+          "Bottom Y": "635"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_006.mp4?alt=media&token=5e6f8164-39d8-465f-bbc8-ac46e52c83a0",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_006",
+          "Release": "1",
+          "Top Y": "464",
+          "Bottom Y": "489"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_007.mp4?alt=media&token=18e1e3c2-dea4-405c-be22-39e425791e36",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_007",
+          "Release": "1",
+          "Top Y": "708",
+          "Bottom Y": "733"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_008.mp4?alt=media&token=605d225e-628e-4a47-8350-7fe5d1430a7b",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_008",
+          "Release": "1",
+          "Top Y": "213",
+          "Bottom Y": "234"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_009.mp4?alt=media&token=a8954639-be66-4fcd-8491-fae3f38bc852",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_009",
+          "Release": "1",
+          "Top Y": "751",
+          "Bottom Y": "770"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Fracture%2FFracture_010.mp4?alt=media&token=02d0f223-08bb-4497-a9ac-ec58f3de60e6",
+        "tags": {
+          "map": "Canyon",
+          "name": "Fracture_010",
+          "Release": "1",
+          "Top Y": "255",
+          "Bottom Y": "278"
+        }
+      },
+      
+    
+    "Haven",
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_001.mp4?alt=media&token=78ed2e00-e195-4cea-a4b6-48f70bebc878",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_001",
+        "Release": "1",
+        "Top Y": "754",
+        "Bottom Y": "788"
+      }
+    },
+      
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_002.mp4?alt=media&token=118dd08a-b4e4-4288-96c9-ea86e604a63a",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_002",
+        "Release": "1",
+        "Top Y": "198",
+        "Bottom Y": "226"
+      }
+    },
+
+     {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_003.mp4?alt=media&token=c12699e4-44f8-4f37-889d-794ebaa40dac",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_003",
+        "Release": "1",
+        "Top Y": "744",
+        "Bottom Y": "774"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_004.mp4?alt=media&token=7ad221b1-c6aa-4af2-9a78-c3bec53aa6df",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_004",
+        "Release": "1",
+        "Top Y": "263",
+        "Bottom Y": "299"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_005.mp4?alt=media&token=3050740f-31e6-4524-9848-a02792972089",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_005",
+        "Release": "1",
+        "Top Y": "652",
+        "Bottom Y": "669"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_006.mp4?alt=media&token=cc063125-d6b9-4159-a9e0-0d1fbf46c76a",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_006",
+        "Release": "1",
+        "Top Y": "705",
+        "Bottom Y": "731"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_007.mp4?alt=media&token=29a08c51-b757-4e80-a946-55b74f7e1bb2",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_007",
+        "Release": "1",
+        "Top Y": "745",
+        "Bottom Y": "773"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_008.mp4?alt=media&token=279d35b2-b25d-4680-8d45-787ad72b4db7",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_008",
+        "Release": "1",
+        "Top Y": "321",
+        "Bottom Y": "342"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_009.mp4?alt=media&token=426ffd31-8ecc-4fb1-b854-bd8590ad5af3",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_009",
+        "Release": "1",
+        "Top Y": "803",
+        "Bottom Y": "827"
+      }
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Haven%2FHaven_010.mp4?alt=media&token=573bc169-c297-4b02-b988-1d34f8eaab90",
+      "tags": {
+        "map": "Triad",
+        "name": "Haven_010",
+        "Release": "1",
+        "Top Y": "328",
+        "Bottom Y": "354"
+      }
+    },
+      
+      
+      
+      "Icebox",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_001.mp4?alt=media&token=6c889713-f835-4a04-985e-2ad1e8122cf3",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_001",
+          "Release": "1",
+          "Top Y": "486",
+          "Bottom Y": "498"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_002.mp4?alt=media&token=dd348a4d-b2f8-4dbc-a3c1-3487ef77f4ce",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_002",
+          "Release": "1",
+          "Top Y": "106",
+          "Bottom Y": "122"
+        }
+      },
+
+     {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_003.mp4?alt=media&token=a65717e5-41d5-4d28-8a6c-461203e85377",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_003",
+          "Release": "1",
+          "Top Y": "560",
+          "Bottom Y": "582"
+        }
+      },
+     
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_004.mp4?alt=media&token=6d7e2242-a1f8-4601-a599-b2f83b7b44d3",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_004",
+          "Release": "1",
+          "Top Y": "295",
+          "Bottom Y": "325"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_005.mp4?alt=media&token=d4c49b07-674d-4eaf-8c3d-999589a7e0a5",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_005",
+          "Release": "1",
+          "Top Y": "288",
+          "Bottom Y": "332"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_006.mp4?alt=media&token=afb0cc8c-af0b-4ce9-a8c8-f9ef6fd332b3",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_006",
+          "Release": "1",
+          "Top Y": "795",
+          "Bottom Y": "821"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_007.mp4?alt=media&token=03b1fd8c-0203-4f2f-83fd-79b7587ea914",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_007",
+          "Release": "1",
+          "Top Y": "221",
+          "Bottom Y": "241"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_008.mp4?alt=media&token=672b8a4c-3fa8-4345-b244-dd2b54562297",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_008",
+          "Release": "1",
+          "Top Y": "311",
+          "Bottom Y": "342"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_009.mp4?alt=media&token=41de8e3e-5f96-41a9-8e0b-c654ca2c6b0e",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_009",
+          "Release": "1",
+          "Top Y": "360",
+          "Bottom Y": "380"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Icebox%2FIcebox_010.mp4?alt=media&token=227db68a-e0fa-4d6a-98b8-6e6c367b987b",
+        "tags": {
+          "map": "Port",
+          "name": "Icebox_010",
+          "Release": "1",
+          "Top Y": "367",
+          "Bottom Y": "389"
+        }
+      },
+      
+      
+      
+      "Lotus",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_001.mp4?alt=media&token=35d9c574-8503-4fc4-b073-48a983cc902b",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_001",
+          "Release": "1",
+          "Top Y": "300",
+          "Bottom Y": "316"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_002.mp4?alt=media&token=e45447c6-967c-4f9e-9106-2388bf996485",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_002",
+          "Release": "1",
+          "Top Y": "807",
+          "Bottom Y": "822"
+        }
+      },
+
+     {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_003.mp4?alt=media&token=62d15efb-e002-4d9b-9696-be8d46be5537",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_003",
+          "Release": "1",
+          "Top Y": "245",
+          "Bottom Y": "265"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_004.mp4?alt=media&token=aa9dacc1-3aaa-483d-9601-9577c8ce66d2",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_004",
+          "Release": "1",
+          "Top Y": "347",
+          "Bottom Y": "381"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_005.mp4?alt=media&token=da4d2768-9206-40f5-a908-a02f340b75cf",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_005",
+          "Release": "1",
+          "Top Y": "802",
+          "Bottom Y": "818"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_006.mp4?alt=media&token=675cc6f0-1645-41da-a3a5-da590e08fcb8",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_006",
+          "Release": "1",
+          "Top Y": "267",
+          "Bottom Y": "285"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_007.mp4?alt=media&token=72f54166-885d-4828-9429-2d274e8aa591",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_007",
+          "Release": "1",
+          "Top Y": "703",
+          "Bottom Y": "738"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_008.mp4?alt=media&token=83be38fd-3cb8-4c40-9641-8f6d19e5d68c",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_008",
+          "Release": "1",
+          "Top Y": "185",
+          "Bottom Y": "203"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_009.mp4?alt=media&token=e0735c60-3a43-4fc2-99df-3470278137e4",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_009",
+          "Release": "1",
+          "Top Y": "124",
+          "Bottom Y": "148"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Lotus%2FLotus_010.mp4?alt=media&token=7962b6ec-32fe-4ae7-8dfd-30e0c0a87b0c",
+        "tags": {
+          "map": "Jam",
+          "name": "Lotus_010",
+          "Release": "1",
+          "Top Y": "794",
+          "Bottom Y": "822"
+        }
+      },
+      
+      
+      
+      "Pearl",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_001.mp4?alt=media&token=6c858216-4eb2-4e6a-9c07-4dec5ea1ea3c",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_001",
+          "Release": "1",
+          "Top Y": "783",
+          "Bottom Y": "813"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_002.mp4?alt=media&token=32961e79-3daf-40d5-95e2-e75daaf410c2",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_002",
+          "Release": "1",
+          "Top Y": "177",
+          "Bottom Y": "196"
+        }
+      },
+
+     {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_003.mp4?alt=media&token=b1bd97b6-d73c-4be8-a5d6-5ec09c0973c2",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_003",
+          "Release": "1",
+          "Top Y": "853",
+          "Bottom Y": "872"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_004.mp4?alt=media&token=50ff69cc-479b-4968-a995-d710c286b7e0",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_004",
+          "Release": "1",
+          "Top Y": "380",
+          "Bottom Y": "433"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_005.mp4?alt=media&token=9c2e815a-5586-490e-bed6-a30f40757bb5",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_005",
+          "Release": "1",
+          "Top Y": "799",
+          "Bottom Y": "823"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_006.mp4?alt=media&token=4781078f-7f39-4526-b94e-1b039aa093cc",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_006",
+          "Release": "1",
+          "Top Y": "191",
+          "Bottom Y": "206"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_007.mp4?alt=media&token=05cc0181-263c-456e-99e1-3ea5a4e5c7b6",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_007",
+          "Release": "1",
+          "Top Y": "566",
+          "Bottom Y": "595"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_008.mp4?alt=media&token=7b2e9bb5-f122-4f0f-9530-3e19c3a87e84",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_008",
+          "Release": "1",
+          "Top Y": "750",
+          "Bottom Y": "767"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_009.mp4?alt=media&token=8edaa592-3be6-4092-ab82-d9ba936024cd",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_009",
+          "Release": "1",
+          "Top Y": "329",
+          "Bottom Y": "342"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Pearl%2FPearl_010.mp4?alt=media&token=3330e0f1-cf7f-4e7b-80a1-cca2f79714f4",
+        "tags": {
+          "map": "Pitt",
+          "name": "Pearl_010",
+          "Release": "1",
+          "Top Y": "333",
+          "Bottom Y": "358"
+        }
+      },
+      
+      
+      
+      "Split",
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_001.mp4?alt=media&token=f97952fc-f7a6-4c6a-9d2b-3c9a7b641758",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_001",
+          "Release": "1",
+          "Top Y": "833",
+          "Bottom Y": "851"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_002.mp4?alt=media&token=204b2efe-2421-4411-8807-d593f767a879",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_002",
+          "Release": "1",
+          "Top Y": "690",
+          "Bottom Y": "714"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_003.mp4?alt=media&token=18836146-5272-4441-a5b6-f282c09d4289",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_003",
+          "Release": "1",
+          "Top Y": "264",
+          "Bottom Y": "286"
+        }
+      },
+
+     {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_004.mp4?alt=media&token=63528008-555c-428b-9ad3-51b481a6ea49",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_004",
+          "Release": "1",
+          "Top Y": "390",
+          "Bottom Y": "426"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_005.mp4?alt=media&token=ffc9fc34-5bdd-4882-9b75-b737d2af8ac2",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_005",
+          "Release": "1",
+          "Top Y": "775",
+          "Bottom Y": "799"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_006.mp4?alt=media&token=b5ac7cdd-13c6-458e-ad4f-d47a9e493f4e",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_006",
+          "Release": "1",
+          "Top Y": "900",
+          "Bottom Y": "912"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_007.mp4?alt=media&token=502c0992-9f7b-4f2e-99a1-4be07ea14a2e",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_007",
+          "Release": "1",
+          "Top Y": "618",
+          "Bottom Y": "638"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_008.mp4?alt=media&token=54476296-a1d0-44b1-83b6-22b29ff9ad46",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_008",
+          "Release": "1",
+          "Top Y": "750",
+          "Bottom Y": "770"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_009.mp4?alt=media&token=8499a952-ec7f-4447-8e81-ccab7b74df94",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_009",
+          "Release": "1",
+          "Top Y": "307",
+          "Bottom Y": "333"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Split%2FSplit_010.mp4?alt=media&token=44974396-b21b-4a33-8f42-387bb7009fe2",
+        "tags": {
+          "map": "Bonsai",
+          "name": "Split_010",
+          "Release": "1",
+          "Top Y": "434",
+          "Bottom Y": "469"
+        }
+      },
+      
+      
+      
+      "Sunset",
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_001.mp4?alt=media&token=0dc9b59e-0a78-491f-b8b6-0363c2797235",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_001",
+          "Release": "1",
+          "Top Y": "363",
+          "Bottom Y": "390"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_002.mp4?alt=media&token=e965ee81-76d3-4aa0-a82e-3d322752437d",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_002",
+          "Release": "1",
+          "Top Y": "687",
+          "Bottom Y": "735"
+        }
+      },
+      
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_003.mp4?alt=media&token=e386efcb-5b03-405c-b938-64aa08eecbae",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_003",
+          "Release": "1",
+          "Top Y": "92",
+          "Bottom Y": "114"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_004.mp4?alt=media&token=739b7534-70bc-44f3-b877-7e19f434b848",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_004",
+          "Release": "1",
+          "Top Y": "719",
+          "Bottom Y": "739"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_005.mp4?alt=media&token=8f9aed8b-9cc9-4b55-afc6-60d6a461171a",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_005",
+          "Release": "1",
+          "Top Y": "595",
+          "Bottom Y": "619"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_006.mp4?alt=media&token=4cf9891b-565d-4975-b41c-52e6e8aff34f",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_006",
+          "Release": "1",
+          "Top Y": "196",
+          "Bottom Y": "229"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_007.mp4?alt=media&token=27f8290a-d4d7-40c3-8d8a-e3e9ed03c3bb",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_007",
+          "Release": "1",
+          "Top Y": "753",
+          "Bottom Y": "781"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_008.mp4?alt=media&token=d83c589a-5993-4420-9e02-0f536e5b6bca",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_008",
+          "Release": "1",
+          "Top Y": "66",
+          "Bottom Y": "114"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_009.mp4?alt=media&token=e7537411-9160-4a29-9c65-a8fb3f1e72c3",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_009",
+          "Release": "1",
+          "Top Y": "368",
+          "Bottom Y": "402"
+        }
+      },
+
+      {
+        "src": "https://firebasestorage.googleapis.com/v0/b/headfinderscratch.appspot.com/o/Sunset%2FSunset_010.mp4?alt=media&token=336a76a8-7573-4bfb-aaba-38ed03591bfe",
+        "tags": {
+          "map": "Juliett",
+          "name": "Sunset_010",
+          "Release": "1",
+          "Top Y": "84",
+          "Bottom Y": "112"
+        }
+      }
+]
